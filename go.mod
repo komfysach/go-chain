@@ -1,3 +1,3 @@
-module github.com/komfysach/go-chain
+module gochain
 
 go 1.16
